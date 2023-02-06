@@ -9,5 +9,4 @@ while True:
     print("CPU Usage: ", cpu_percent, "%")
     print("Memory Usage: ", virtual_memory.percent, "%")
     print("Disk Usage: ", disk_usage.percent, "%")
-
     time.sleep(5)
